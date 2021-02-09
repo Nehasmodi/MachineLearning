@@ -1,10 +1,13 @@
-# MachineLearning
-This repo is having stuff related to machine learning
+# My repo for latest projects at INSAID
 
-- Point 1
-- Point 2
+## Here is the list of all projects
 
----
-```
-print("Hello World")
-```
+- [Topic 1](http://https://github.com/Nehasmodi/MachineLearning/tree/main/MachineLearning-Project "Topic 1")
+- Topic 2
+- Topic 3
+
+| Topic Name  |   |
+| :------------: | :------------: |
+| Topic 1  | [![Image1](https://raw.githubusercontent.com/Nehasmodi/MachineLearning/main/images/1.jpg "Image1")](http://https://raw.githubusercontent.com/Nehasmodi/MachineLearning/main/images/1.jpg "Image1")  |
+| Topic 2  |   |
+| Topic 3  |   |
